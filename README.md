@@ -2,6 +2,10 @@
 
 Operate all machines under your control and throw milk at your target.
 
+## NOTICE
+
+This project is still under development, please use another project.
+
 ## TODO
 
 MilkNet BotNet
