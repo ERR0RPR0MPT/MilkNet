@@ -4,6 +4,8 @@ Operate all machines under your control and throw milk at your target.
 
 ## NOTICE
 
+Please abide by the user's local laws, and the developer does not take any responsibility.
+
 This project is still under development, please use another project.
 
 ## TODO
